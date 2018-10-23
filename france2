@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1,FR: beIN SPORTS1 HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/447.ts
-#EXTINF:-1,FR: beIN SPORTS 2HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/446.ts
-#EXTINF:-1,FR: beIN SPORTS 3HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/448.ts
-#EXTINF:-1,FR: Bein Sport Max 6
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/443.ts
-#EXTINF:-1,FR: Bein Sport Max 7
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/442.ts
-#EXTINF:-1,FR: Bein Sport Max 8
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/441.ts
-#EXTINF:-1,FR: Bein Sport Max 9
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/440.ts
+
+
 
 #EXTINF:-1,[FR] TF1 FHD
 http://world-ipsat.com:1155/live/najib/2018/2193.ts
