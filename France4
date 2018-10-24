@@ -2175,5 +2175,6 @@ http://universeiptv.com:8000/live/Kat/Kat123/7740.ts
 http://universeiptv.com:8000/live/Kat/Kat123/7744.ts
 #EXTINF:215,Freedailyiptv.com
 http://stream2.fastcdn.me/flv/199.mp4
-
+#EXTINF:215,Freedailyiptv.com
+http://stream2.fastcdn.me/flv/199.mp4
 
