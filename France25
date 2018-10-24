@@ -2179,13 +2179,11 @@ http://universeiptv.com:8000/live/Kat/Kat123/895.ts
 http://universeiptv.com:8000/live/Kat/Kat123/5591.ts
 #EXTINF:-1,FR:W9
 http://universeiptv.com:8000/live/Kat/Kat123/894.ts
-#EXTINF:-1,FR:A_LA_CARTE_1
-http://universeiptv.com:8000/live/Kat/Kat123/1608.ts
-#EXTINF:-1,FR:A_LA_CARTE_2
-http://universeiptv.com:8000/live/Kat/Kat123/1609.ts
-#EXTINF:-1,FR:A_LA_CARTE_3
-http://universeiptv.com:8000/live/Kat/Kat123/1610.ts
-#EXTINF:-1,FR:A_LA_CARTE_4
-http://universeiptv.com:8000/live/Kat/Kat123/2163.ts
-#EXTINF:-1,FR:A_LA_CARTE_5
-http://universeiptv.com:8000/live/Kat/Kat123/2164.ts
+#EXTINF:0, Freedailyiptv.com
+http://bit.ly/2MeqQET
+#EXTINF:0, Freedailyiptv.com
+http://bit.ly/2MBgewx
+#EXTINF:0, Freedailyiptv.com
+http://bit.ly/2vA14Bw
+#EXTINF:0, Freedailyiptv.com
+http://bit.ly/2M9AeKB
