@@ -2171,14 +2171,10 @@ http://universeiptv.com:8000/live/Kat/Kat123/884.ts
 http://universeiptv.com:8000/live/Kat/Kat123/7742.ts
 #EXTINF:-1,FR:TREK_HD
 http://universeiptv.com:8000/live/Kat/Kat123/7740.ts
-#EXTINF:-1,FR:TV5_MONDE
-http://universeiptv.com:8000/live/Kat/Kat123/7744.ts
-#EXTINF:-1,FR:Ushuaia_HD
-http://universeiptv.com:8000/live/Kat/Kat123/895.ts
-#EXTINF:-1,FR:Voyage
-http://universeiptv.com:8000/live/Kat/Kat123/5591.ts
-#EXTINF:-1,FR:W9
-http://universeiptv.com:8000/live/Kat/Kat123/894.ts
+
+
+
+
 #EXTINF:-1,USA HBO Signature
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3711.ts
 #EXTINF:-1,USA HBO
