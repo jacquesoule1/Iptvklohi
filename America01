@@ -1,5 +1,4 @@
-#EXTINF:-1,USA HBO Signature
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3711.ts
+#EXTM3U
 #EXTINF:-1,USA HBO
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3710.ts
 #EXTINF:-1,USA HBO FAMILY
@@ -70,5 +69,4 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3705.ts
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3701.ts
 #EXTINF:-1,USA SYFY
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3700.ts
-#EXTINF:-1,USA WWEHD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3695.ts
+
